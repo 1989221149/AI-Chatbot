@@ -1,0 +1,5 @@
+venv/
+myenv/
+myenv
+llm_db/*
+myenv/*
